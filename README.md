@@ -4,7 +4,7 @@ The Motorola Sales Analytics Dashboard is an interactive Power BI dashboard deve
 The dashboard provides business insights through dynamic visualizations and KPI tracking, helping stakeholders monitor sales growth, product performance, and customer engagement efficiently.
 ---
 # Dashboard Preview
-![Motorola Sales Dashboard](Screenshot%202026-02-19%20104810\(1\).png)
+![Dashboard Image](Dashboard_Image.png)
 ---
 # Key Performance Indicators (KPIs)
 | KPI | Value |
